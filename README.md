@@ -122,4 +122,4 @@ product-catalog/
 ├── server.js              # Express server
 ├── package.json
 └── .env                   # Environment variables
-``` 
+```
